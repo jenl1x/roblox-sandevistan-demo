@@ -10,7 +10,7 @@ A script that simulates the Sandevistan ability from Cyberpunk: Edgerunners anim
 Lua, Roblox Studio, RemoteEvents, ModuleScripts, Animator API
 
 ## Preview
-[Demo Video](https://youtu.be/oWav0o4wzCU)
+[Demo Video](https://www.youtube.com/shorts/P76jrYYQc24)
 
 [Reference](https://www.youtube.com/watch?v=xoLBt2vayAc&t)
 
